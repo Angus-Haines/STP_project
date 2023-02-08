@@ -6,3 +6,4 @@ Map with BWA MEM added and reads 1 + 2 connected as input data
 Picard collect sequencing Artifact Metrics added
 GATK4Mutect2 added
 MultiQC add
+BRCADirect.v1.0.bed uploaded
