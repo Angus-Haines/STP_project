@@ -1,3 +1,4 @@
 RMH200SolidBRCA-Blend-T_S95_R1_001.fastq.gz
 RMH200SolidBRCA-Blend-T_S95_R2_001.fastq.gz
 Added hg19.fa as reference genome
+Tool 4 + 5 are FastaQC for read 1 + 2 respectivly
