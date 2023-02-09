@@ -10,3 +10,4 @@ BRCADirect.v1.0.bed uploaded
 BRCADirect.v1.0.bed.intervals uploaded
 VCFfilter Galaxy Version 1.0.0_rc3+galaxy3 added
 VCFannotate Galaxy Version 1.0.0_rc3+galaxy0 added
+Remove Picard and GATK inseet Bowtie 2 Galaxy Version 2.5.0+galaxy0 & Sam filter galaxy Version 1.8+galaxy1
