@@ -1,5 +1,5 @@
-RMH200SolidBRCA-Blend-T_S95_R1_001.fastq.gz
-RMH200SolidBRCA-Blend-T_S95_R2_001.fastq.gz
+Input - RMH200SolidBRCA-Blend-T_S95_R1_001.fastq.gz
+Input - RMH200SolidBRCA-Blend-T_S95_R2_001.fastq.gz
 Added hg19.fa as reference genome
 Tool 4 + 5 are FastaQC for read 1 + 2 respectivly Galaxy Version 0.73+galaxy0
 Map with BWA MEM added and reads 1 + 2 connected as input data Galaxy Version 0.7.17.2
@@ -12,4 +12,4 @@ VCFfilter Galaxy Version 1.0.0_rc3+galaxy3 added
 VCFannotate Galaxy Version 1.0.0_rc3+galaxy0 added
 Remove Picard and GATK inseet Bowtie 2 Galaxy Version 2.5.0+galaxy0 & Sam filter galaxy Version 1.8+galaxy1
 Insert Picard and GATK remove Bowtie 2 Galaxy Version 2.5.0+galaxy0 & Sam filter galaxy Version 1.8+galaxy1
-
+Copy workflow and insert Bowtie 2 Galaxy Version 2.5.0+galaxy0  to compare
