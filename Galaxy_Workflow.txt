@@ -15,3 +15,4 @@ Insert Picard and GATK remove Bowtie 2 Galaxy Version 2.5.0+galaxy0 & Sam filter
 Copy workflow and insert Bowtie 2 Galaxy Version 2.5.0+galaxy0  to compare
 Insert sort SAM/BAM dataset (Galaxy Version 2.18.2.1)
 Insert RmDup v 2.01
+Remove RmDup v 2.01 & SAM/BAM dataset (Galaxy Version 2.18.2.1) Insert Map with BWA-MEM v 0.7.17.12 & AddOrReplaceReadGroups v2.18.2.1
